@@ -1,0 +1,6 @@
+package com.example.pokeapp.data.remote.responses
+
+data class TypeX(
+    val name: String,
+    val url: String
+)
